@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a software engineer with innovative and well designed models. \
-🎓&nbsp;I graduated form Kwame Nkrumah University of Science and Technology, Ghana (Bsc, Computer Engineering, Batch of 2019).\
+🎓 &nbsp;I graduated form Kwame Nkrumah University of Science and Technology, Ghana (Bsc, Computer Engineering, Batch of 2019).\
 ✍️ &nbsp;In my free time, I watch animes, play some games and pursue architecting programming models as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at barkoafrasah@gmail.com. I'll try to respond as soon as possible!\
