@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I watch animes, play some games and pursue architecting programming models as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at barkoafrasah@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Website](https://benjin.netlify.app/) or [CV](https://github.com/Silvrash/cv/blob/main/example/cv.pdf) for more details about work experience.
+📄 &nbsp;You can check my [Website](https://benjin.netlify.app/) or [CV](https://github.com/Silvrash/cv/raw/main/resume.pdf) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
